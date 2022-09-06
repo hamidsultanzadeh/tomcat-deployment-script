@@ -7,5 +7,18 @@ Script for automate tomcat deployment
 3. <PATH_TO_TOMCAT> - TOMCAT FOLDER
 4. <PROJECT_NAME> - JAR OR WAR NAME, EXAMPLE BACKEND-APP-1.42.2-SNAPSHOT.WAR
 
-NOTE 4.: ON MOVE COMMAND YOU HAVE TO CHANGE DEPLOYMENT NAME FOR TOMCAT APPLICATION CONTEXT 
-IF DEPLOYMENT FOLDER NAME IS BACKEND-APP-1.42.2-SNAPSHOT, THEN YOUR APP'S CONTEXT IN TOMCAT WILL BE LOCALHOST:8080/BACKEND-APP-1.42.2-SNAPSHOT
+Note 4.: On the move command, You have to change the deployment name for Tomcat Application Context. If the deployment folder name is BACKEND-APP-1.42.2-SNAPSHOT, then your app's context in Tomcat will be localhost:8080/BACKEND-APP-1.42.2-SNAPSHOT
+
+## Supports
+| OS | Support |
+| --- | --- |
+| Windows | ✅ |
+| Linux | ❌ |
+| Mac | ❌ |
+
+======
+
+| Build tool | Support |
+| --- | --- |
+| Maven | ✅ |
+| Gradle | ❌ |
