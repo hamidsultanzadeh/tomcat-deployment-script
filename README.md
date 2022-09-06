@@ -29,3 +29,8 @@ Note 4.: On the move command, You have to change the deployment name for Tomcat 
 | --- | --- |
 | Maven | ✅ |
 | Gradle | ❌ |
+
+
+## Execute script from Intellij
+
+![Execute script from Intellij](/images/intellij-execute-script.png)
